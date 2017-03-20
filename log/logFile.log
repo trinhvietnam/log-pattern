@@ -1,0 +1,44 @@
+{"level":"info","message":"D:\\code\\typescript\\logger\\models\\Test.js \"123\"","timestamp":"2017-03-20T04:10:23.631Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"123\"","timestamp":"2017-03-20T04:11:10.410Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:13:09.632Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:13:18.877Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:13:18.877Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"Loi o dong nay\"","timestamp":"2017-03-20T04:14:00.932Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:14:00.932Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"Loi o dong nay\" 123","timestamp":"2017-03-20T04:14:22.479Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:14:22.479Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"Loi o dong nay\" 123","timestamp":"2017-03-20T04:15:12.012Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:15:12.012Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"Loi o dong nay\" 123","timestamp":"2017-03-20T04:15:19.896Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:15:19.896Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"Loi o dong nay\" 123","timestamp":"2017-03-20T04:15:22.966Z"}
+{"level":"info","message":"123","timestamp":"2017-03-20T04:15:22.966Z"}
+{"level":"info","message":"TAG_FILE = Test.js \"Loi o dong nay\" 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:16:24.113Z"}
+{"a":10,"b":"di choi","level":"info","message":"123","timestamp":"2017-03-20T04:16:24.128Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:20:54.544Z"}
+{"a":10,"b":"di choi","level":"info","message":"123","timestamp":"2017-03-20T04:20:54.544Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:21:02.174Z"}
+{"a":10,"b":"di choi","level":"info","message":"123","timestamp":"2017-03-20T04:21:02.174Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:21:05.437Z"}
+{"a":10,"b":"di choi","level":"info","message":"123","timestamp":"2017-03-20T04:21:05.437Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:22:58.417Z"}
+{"a":10,"b":"di choi","level":"info","message":"123","timestamp":"2017-03-20T04:22:58.418Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:23:14.900Z"}
+{"a":10,"b":"di choi","level":"info","message":"123","timestamp":"2017-03-20T04:23:14.900Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:23:23.152Z"}
+{"a":10,"b":"di choi","level":"info","message":"TAG_FILE = Test.js Loi o dong nay %b 1 123","timestamp":"2017-03-20T04:23:29.874Z"}
+{"a":10,"b":"di choi","level":"info","message":"TAG_FILE = Test.js Loi o dong nay %b 1 123","timestamp":"2017-03-20T04:23:33.777Z"}
+{"a":10,"b":"di choi","level":"info","message":"TAG_FILE = Test.js Loi o dong nay %b 1 123","timestamp":"2017-03-20T04:23:52.304Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:23:54.523Z"}
+{"level":"info","message":"TAG_FILE = Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:24:08.820Z"}
+{"level":"info","message":"D:\\code\\typescript\\logger\\models\\Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:25:04.036Z"}
+{"level":"info","message":"D:\\code\\typescript\\logger\\models\\Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:25:12.475Z"}
+{"level":"info","message":"D:\\code\\typescript\\logger\\models\\Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:25:14.439Z"}
+{"level":"info","message":"D:\\code\\typescript\\logger\\models\\Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:25:30.300Z"}
+{"level":"info","message":"D:\\code\\typescript\\logger\\models\\Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:25:37.558Z"}
+{"level":"info","message":"[D:\\code\\typescript\\logger\\models\\Test.js Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:26:24.506Z"}
+{"level":"info","message":"[D:\\code\\typescript\\logger\\models\\Test.js] Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:26:29.297Z"}
+{"level":"info","message":"[D:\\code\\typescript\\logger\\models\\Test.js] Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:28:32.626Z"}
+{"level":"info","message":"[D:\\code\\typescript\\logger\\models\\Test.js] Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:31:57.452Z"}
+{"level":"info","message":"[D:\\code\\typescript\\logger\\models\\Test.js] Loi o dong nay true 123 {\"a\":10,\"b\":\"di choi\"}","timestamp":"2017-03-20T04:33:39.946Z"}
+{"level":"info","message":"[D:\\code\\typescript\\logger\\databases\\ABC.js] Loi o dong nay true 123 {\"a\":\"ok roi do\",\"b\":\"di choi\"}","timestamp":"2017-03-20T04:34:36.266Z"}

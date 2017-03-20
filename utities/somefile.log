@@ -1,0 +1,33 @@
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:35:45.279Z"}
+{"level":"info","message":"Now my debug messages are written to console!  32322 3232 32322","timestamp":"2017-03-20T03:37:46.296Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:37:48.680Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:37:51.182Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:37:52.736Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:38:07.719Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:40:13.640Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console!  32322 3232","timestamp":"2017-03-20T03:40:18.922Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console! ","timestamp":"2017-03-20T03:40:27.555Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"Now my debug messages are written to console! ","timestamp":"2017-03-20T03:40:41.553Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"","timestamp":"2017-03-20T03:40:52.383Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"","timestamp":"2017-03-20T03:42:32.351Z"}
+{"level":"info","message":"{\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:43:01.266Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":"\"32322\"","timestamp":"2017-03-20T03:43:23.209Z"}
+{"level":"info","message":"\"32322\" {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:46:39.280Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":" 32322","timestamp":"2017-03-20T03:47:47.453Z"}
+{"a":"mot hai ba","b":32535,"level":"info","message":" 32322","timestamp":"2017-03-20T03:47:49.488Z"}
+2017-03-20T03:47:55.512Z - info:  32322 a=mot hai ba, b=32535
+2017-03-20T03:47:56.813Z - info:  32322 a=mot hai ba, b=32535
+{"level":"info","message":"\"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535} ","timestamp":"2017-03-20T03:55:40.734Z"}
+{"level":"info","message":"\"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535} ","timestamp":"2017-03-20T03:55:46.067Z"}
+{"level":"info","message":"TAG-123  \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:56:30.668Z"}
+{"level":"info","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:57:22.200Z"}
+{"level":"info","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:57:27.212Z"}
+{"level":"error","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:59:01.916Z"}
+{"level":"error","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T03:59:50.776Z"}
+{"level":"info","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:00:02.303Z"}
+{"level":"error","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:00:02.303Z"}
+{"level":"info","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:00:05.203Z"}
+{"level":"info","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:00:15.662Z"}
+{"level":"info","message":"TAG-123 \"32322\" 3232 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:00:17.825Z"}
+{"level":"info","message":"TAG-123 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:03:44.385Z"}
+{"level":"info","message":"TAG-123 {\"a\":\"mot hai ba\",\"b\":32535}","timestamp":"2017-03-20T04:04:20.592Z"}
